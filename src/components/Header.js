@@ -65,7 +65,8 @@ function Header() {
                       // This function will be called after the user has disconnected their MetaMask wallet.
                       console.log("MetaMask is disconnected");
                     }}
-                  >   
+                  />
+                       
     
                   <a href="https://docs.notional.finance/notional-v3" target="_blank">
                   <Button>View Docs</Button>
